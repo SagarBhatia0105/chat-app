@@ -1,0 +1,9 @@
+WebSocket Protocol:-
+
+Allows to set up communication. Multiple clients can connect to server.
+Full duplex communication can be achieved with WebSocket Protocol. This means bidirectional communication.
+Server-to-client and client-to-server.
+Separate from HTTP.
+<script> src = "/socket.io/socket.io.js"</script>
+the above line is written on the html page to load in
+socket.io library and allow the client to access the server.
